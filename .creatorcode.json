@@ -1,0 +1,11 @@
+{
+  "id": "proj-areion",
+  "name": "AREION",
+  "framework": "React",
+  "database": "None",
+  "author": "Team Indentation",
+  "publishedTitle": "AREION — Mars EDL Simulator",
+  "publishedDescription": "An autonomous 3-DoF Mars entry, descent and landing simulation with live 3D visualization, GN&C, environmental disturbances and Mission Control telemetry.",
+  "publishedVersion": "1.0.0",
+  "publishedTags": "mars, edl, simulation, react, threejs, guidance"
+}
